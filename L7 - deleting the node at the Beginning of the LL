@@ -1,6 +1,6 @@
 # This is the program for deleting node at the beginning
-print('''Venkatesh Bisoyi
-121910313056''')
+print('''jaswanth sai
+121910313044''')
 # Defining the Node class
 class Node:
     def __init__(self, data):  # Constructor for Node class
