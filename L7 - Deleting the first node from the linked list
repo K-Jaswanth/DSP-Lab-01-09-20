@@ -1,6 +1,6 @@
 #This is the program for deleting the element at the starting of the linked list
-print('''Venkatesh Bisoyi
-12191013056''')
+print('''jaswanth sai
+12191013044'''
 
 class Node:
     # this class is used for the creation of the node
