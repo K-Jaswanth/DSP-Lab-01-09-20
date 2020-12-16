@@ -1,7 +1,7 @@
 # this is the program for Deleting the element at any position of the Linked List
 
-print('''Venkatesh Bisoyi
-121910313056''')
+print('''jaswanth sai
+12191013044'''
 # Defining the Node class
 class Node:
     def __init__(self, data):  # Constructor for Node class
